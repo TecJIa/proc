@@ -8,4 +8,4 @@
 
 Результат выполнения
   
-![images2](./images/proc_1.png)
+![images2](./proc_1.png)
